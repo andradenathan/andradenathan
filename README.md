@@ -1,6 +1,6 @@
 ### Hi there, my name is Nathan 👋
 
-🔭 I’m currently working at EJCM Junior Enterprise as back-end developer and I'm aiming to be a Full Stack Developer.
+🔭 I’m a student at Federal University of Rio de Janeiro and currently working at EJCM Junior Enterprise as back-end developer. I'm aiming to be a Full Stack Developer and get Thanos gauntlet.
 
 ### Technologies ⚡
 
