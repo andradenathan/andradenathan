@@ -2,7 +2,7 @@
 
 🔭 I’m a student at Federal University of Rio de Janeiro and currently working at EJCM Junior Enterprise as back-end developer. I'm aiming to be a Full Stack Developer and get Thanos gauntlet.
 
-### Technologies ⚡
+### Technologies ✏ 
 [![Python Badge](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)](#)
 [![PHP Badge](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white)](#)
 [![Laravel Badge](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white)](#) 
