@@ -20,4 +20,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white)](mailto:nathan.nhdsk@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](http://instagram.com/y4tsu)
 
-[![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=andradenathan)](https://github.com/andradenathan/github-readme-stats)
+[![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=andradenathan)](#)
