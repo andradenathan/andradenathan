@@ -16,8 +16,8 @@
 ### Contact 📱
 [![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andradenathan)](https://github.com/andradenathan)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanhdsk/)](https://www.linkedin.com/in/nathanhdsk/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bakyatsu)](https://twitter.com/bakyatsu)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nathanhdsk)](https://twitter.com/bakyatsu)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white)](mailto:nathan.nhdsk@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](http://instagram.com/y4tsu)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](http://instagram.com/nathanhdsk)
 
 [![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=andradenathan)](#)
