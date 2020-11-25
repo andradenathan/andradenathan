@@ -21,3 +21,4 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](http://instagram.com/nathanhdsk)
 
 [![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=andradenathan)](#)
+[![Nathan's github lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andradenathan)](#)
